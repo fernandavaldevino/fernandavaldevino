@@ -36,11 +36,10 @@ parallel extension course.
 
 ## 🛠️ Tech I work with
 
+**Languages**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="SQL" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
 </p>
 
 **Data Science & Machine Learning**
@@ -49,22 +48,59 @@ parallel extension course.
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/XGBoost-EB0028?style=flat-square" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square" />
 </p>
 
-**AI & LLMs**
+**AI, LLMs & GenAI**
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square" />
   <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/LlamaIndex-7B61FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Chroma-FF6B35?style=flat-square" />
 </p>
 
-**Backend & Apps**
+**NLP**
+<p>
+  <img src="https://img.shields.io/badge/NLTK-154F3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black&style=flat-square" />
+</p>
+
+**Backend & APIs**
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square" />
+</p>
+
+**Data Apps & Visualization**
+<p>
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=flat-square" />
+</p>
+
+**Databases**
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square" />
+</p>
+
+**DevOps & Cloud**
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat-square" />
+</p>
+
+**Tools & Testing**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white&style=flat-square" />
 </p>
 
 ---
